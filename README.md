@@ -68,9 +68,11 @@ endmodule
 
 
 ### TIMING DIAGRAM
+![image](https://github.com/arshitha7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979143/9ed4659c-4748-4b61-ba28-af05c32207ad)
 
 
 ### TRUTH TABLE 
+![image](https://github.com/arshitha7/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979143/d91ed1cc-c533-447d-9230-0a4130555698)
 
 ### Result:
 Thus the given logic functions are implemented and their operations are verified using verilog programming
